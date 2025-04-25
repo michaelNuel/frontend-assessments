@@ -23,7 +23,7 @@ const Body = () => {
                 Huddle re-imagines the way we build communities. You have a voice, but so does your audience. Create connections with users as you engage in genuine discussions.
             </Text>
 
-            <Button  marginLeft={{base:"5.4rem", lg:"none"}} height={"3rem"} width={"8rem"} marginTop={"1rem"}  marginBottom={{base:"3rem", lg:"none"}} backgroundColor={"white"} color={"purple.800"} fontSize={".9rem"} _hover={{ backgroundColor: "purple.600", color:"white"}}>
+            <Button  marginLeft={{base:"5.4rem", lg:"0rem"}} height={"3rem"} width={"8rem"} marginTop={"1rem"}  marginBottom={{base:"3rem", lg:"none"}} backgroundColor={"white"} color={"purple.800"} fontSize={".9rem"} _hover={{ backgroundColor: "purple.600", color:"white"}}>
                 Register
             </Button>
         </Box>
